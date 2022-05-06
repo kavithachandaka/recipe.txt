@@ -1,0 +1,6 @@
+Pizza
+
+Welcome to ordering service of Pizza. 
+
+Open swiggy.com
+Select the required pizza and place your order
